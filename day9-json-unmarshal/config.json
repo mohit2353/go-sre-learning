@@ -1,0 +1,7 @@
+{
+  "name": "Production-1",
+  "cpu": 70,
+  "memory": 85,
+  "status": "Running",
+  "environment": "JAVA_HOME"
+}
