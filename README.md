@@ -38,23 +38,6 @@ Preparing for:
 
 ---
 
-## Folder Structure
-
-```text
-day1/
-day2/
-day3/
-day4/
-day5-cli-tools/
-day6-functions/
-day7-methods/
-day8-json/
-day9-json-unmarshal/
-kubernetes/
-```
-
----
-
 ## Goal
 
 Targeting advanced SRE and Platform Engineering roles with strong fundamentals in:
