@@ -27,5 +27,4 @@ func main() {
 
 	fmt.Println(name)
 	fmt.Println(age)
-	fmt.Println("Age after increase:", age)
 }
